@@ -1,4 +1,4 @@
-# trinity-test-angular
+# trinity-test-java-angular
 Trinity - Teste estágio Java + Angular
 
 ## Objetivo
