@@ -16,3 +16,6 @@ API de exemplo a ser utilizada: https://my-json-server.typicode.com/typicode/dem
   - Novo Comentário: esta tela permite adicionar um comentário a um Post.
 4. Será tratado como bônus, a disponibilização do código-fonte do projeto em repositório GIT.
 5. O projeto deve ser executado utilizando o comando: ng serve
+
+## Prazo
+O prazo de entrega é de uma semana.
